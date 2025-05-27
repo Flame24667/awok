@@ -1,1 +1,3 @@
-THIS IS AOL JELEK AWOK
+HelloWorld("print")
+
+print
